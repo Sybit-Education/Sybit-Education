@@ -1,2 +1,2 @@
 # Sybit-Education
-Websiet of Organisation on Github.
+Website of Organisation on Github.
